@@ -53,11 +53,11 @@ def create_task_XML(data):
         <penalty>0.0000000</penalty>
         <hidden>0</hidden>
         <idnumber></idnumber>
-        <coderunnertype>c_program_no_warning</coderunnertype>
+        <coderunnertype>c_program</coderunnertype>
         <prototypetype>0</prototypetype>
         <allornothing>0</allornothing>
         <penaltyregime>0</penaltyregime>
-        <precheck>0</precheck>
+        <precheck>1</precheck>
         <showsource>0</showsource>
         <answerboxlines>18</answerboxlines>
         <answerboxcolumns>100</answerboxcolumns>
